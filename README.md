@@ -1,8 +1,8 @@
-# INPE scintillation data example
+# Processed results of a INPE scintillation dataset
 
-This is an example data for the papers:
+This is the processed results used in the paper:
 
-* Sun, K. A., Pi, X., Rino, C., & Lee, J. (2022). Statistical Uncertainty in the frequency dependence of the intensity scintillation index (S4). *Space Weather*, (Submitted)
+* Sun, K. A., Pi, X., Rino, C., & Lee, J. (2023). Statistical Uncertainty in the frequency dependence of the intensity scintillation index (S4). *Space Weather*, (Submitted)
 
 ## Description of the data
 
@@ -17,13 +17,15 @@ Further details about the IPE method can be found in Carrano et al. (2017).
 ```
 INPE_refined.mat
 
-column 1 U (scattering strength)
-column 2 p (one-component phase spectral index)
-column 3 fF (Fresnel frequency)
-column 4 S4(f_L1) with a 30-min window
-column 5 S4(f_L2) with a 30-min window
-column 6 S4(f_L1) with a 1-min window
-column 7 S4(f_L2) with a 1-min window
+column 1 yymmdd
+column 2 station number (1: FRTZ, 2: PALM, 3: POAL, 4: PRU2, 5: SJCE)
+column 3 sat_id
+column 4 Epoch in UT (s)
+column 5 U (scattering strength)
+column 6 p (one-component phase spectral index)
+column 7 rhoF/veff (Fresnel time scale)
+column 8 S4(f_L1)
+column 9 S4(f_L2)
 
 ```
 
