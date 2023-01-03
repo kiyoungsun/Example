@@ -2,12 +2,12 @@
 
 Here are the processed results used in the paper:
 
-* Sun, K. A., Pi, X., Rino, C., & Lee, J. (2023). Statistical Uncertainty in the frequency dependence of the intensity scintillation index (S4). *Space Weather*, (Submitted)
+* Sun, K. A., Pi, X., Rino, C., & Lee, J. (2023). Statistical Uncertainty in the frequency dependence of the intensity scintillation index (S4). *Space Weather* (Submitted)
 
 ## Description of the data
 
 The data was obtained from Septentrio PolaRxS Pro GNSS receivers at five stations: FRTZ (3.73S, 38.72W), PALM (10.20S, 48.31W), POAL (30.07S, 51.12W), PRU2 (22.12S, 51.41W), and SJCE (23.21S, 45.86W) from November 2013 to January 2014.
-The phase screen parameters: the scattering strength (U), spectral index (p), and Fresnel frequency (fF) are extracted via iterative parameter estimation (IPE) method.
+The phase screen parameters: the scattering strength (U), spectral index (p), and Fresnel time scale (rhoF/veff) are extracted via iterative parameter estimation (IPE) method.
 Further details about the IPE method can be found in Carrano et al. (2017).
 
 * Carrano, C. S., Rino, C. L., & Groves, K. M. (2017). Maximum Likelihood Estimation of Phase Screen Parameters from Ionospheric Scintillation Spectra. Proc. 15th IES Symposium, Alexandria, VA.
