@@ -1,6 +1,6 @@
-# Processed results of a INPE scintillation dataset
+# Processed resultsof a INPE scintillation dataset
 
-This is the processed results used in the paper:
+Here are the processed results used in the paper:
 
 * Sun, K. A., Pi, X., Rino, C., & Lee, J. (2023). Statistical Uncertainty in the frequency dependence of the intensity scintillation index (S4). *Space Weather*, (Submitted)
 
@@ -15,7 +15,7 @@ Further details about the IPE method can be found in Carrano et al. (2017).
 ### Variables
 
 ```
-INPE_refined.mat
+INPE_processed.mat
 
 column 1 yymmdd
 column 2 station number (1: FRTZ, 2: PALM, 3: POAL, 4: PRU2, 5: SJCE)
