@@ -2,7 +2,7 @@
 
 Here are the processed results used in the paper:
 
-* Sun, K. A., Pi, X., Rino, C., & Lee, J. (2023). Statistical Uncertainty in the frequency dependence of the intensity scintillation index (S4). *Space Weather* (Submitted)
+* Sun, K. A., Pi, X., Rino, C., & Lee, J. (2023). Statistical uncertainty in the frequency dependence of the intensity scintillation index (S4). *Radio Science* (Submitted)
 
 ## Description of the data
 
