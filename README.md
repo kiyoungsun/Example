@@ -1,4 +1,4 @@
-# Processed results of a INPE scintillation dataset
+# Processed results from INPE scintillation dataset
 
 Here are the processed results used in the paper:
 
